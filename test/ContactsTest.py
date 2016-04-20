@@ -1,5 +1,6 @@
 #$Id$#
 
+#auggie
 from books.model.Contact import Contact
 from books.model.Email import Email
 from books.model.Address import Address
